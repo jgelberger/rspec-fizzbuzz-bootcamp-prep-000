@@ -10,6 +10,4 @@ def fizzbuzz(x)
   end
   elsif x % 5 == 0
     "Buzz"
-  else
-  end  
 end
